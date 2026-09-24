@@ -1,0 +1,7 @@
+{
+  "name": "ChronoNeon Alarm Clock",
+  "description": "A sleek dark-mode alarm clock with live digital time, multi-alarm setter, synthesized chimes, and AI text-to-speech morning greetings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
